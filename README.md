@@ -1,9 +1,5 @@
 My-First-repository
 ===================
-
-My-First-repository
-My-First-repository
-My-First-repository
 Let's commit a change to the README file.
 
 Readme file in file listIn your repository's list of files, click README.md.
